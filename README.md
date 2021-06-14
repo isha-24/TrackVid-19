@@ -1,5 +1,5 @@
 # TrackVid-19 App
-This COVID-19 Tracker Android App which aims at providing real-time global Stats as well as every countries Stats.<br>
+This is COVID-19 Tracker Android App which aims at providing real-time global Stats as well as every countries Stats.<br>
 It uses REST API and Volley Library.
 <br> <br> <br>
 <pre class=" ">
