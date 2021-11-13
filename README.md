@@ -4,6 +4,6 @@ It uses REST API and Volley Library.
 <br> <br> <br>
 <pre class=" ">
 <p align ="center">
-  <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/IMAGE-1.jpg" width ="200">      <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/IMAGE-2.jpg" width ="200">      <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/IMAGE-3.jpg" width ="200">
+  <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/ss3.png" width ="200">      <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/ss1.png" width ="200">      <img src="https://github.com/isha-24/TrackVid-19/blob/master/Images/ss2.png" width ="200">
 </p>
 </pre>
